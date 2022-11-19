@@ -1,0 +1,15 @@
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\bin\Debug\net6.0\AFD_Trabalho.exe
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\bin\Debug\net6.0\AFD_Trabalho.deps.json
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\bin\Debug\net6.0\AFD_Trabalho.runtimeconfig.json
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\bin\Debug\net6.0\AFD_Trabalho.dll
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\bin\Debug\net6.0\AFD_Trabalho.pdb
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.csproj.AssemblyReference.cache
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.AssemblyInfoInputs.cache
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.AssemblyInfo.cs
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.dll
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\refint\AFD_Trabalho.dll
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.pdb
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\AFD_Trabalho.genruntimeconfig.cache
+C:\Users\joaop\Desktop\Graduações\UFMA\2022.1\Linguagens Formais e Autômatos\Provas\Terceira Prova\AFD_Trabalho\obj\Debug\net6.0\ref\AFD_Trabalho.dll
